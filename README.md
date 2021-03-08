@@ -7,7 +7,6 @@ I'm YanYuan, a Chinese FE Developer.
 - 🔭 I’m currently working on Chengdu.
 - 🌱 I’m currently learning ...
 - 💬 My Blog: [YanYuan](http://yanyuanfe.cn/) 
-- 📫 My Resume: [Here](https://hacknical.com/YanYuanFE/resume?locale=zh)
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
